@@ -12,17 +12,17 @@ Supporting pieces: onboarding, scan gallery (star / auto-purge), haptic feedback
 
 # App Screens Here are 11 real App screens taken directly from the app. 
 
-<p align="center"> <img src="docs/assets/1.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/2.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/3.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/4.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/5.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/6.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/7.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/8.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/9.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/10.jpeg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/11.jpeg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/1.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/2.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/3.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/4.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/5.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/6.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/7.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/8.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/9.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/10.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/11.jpg" alt="Safesight" width="100%" /> </p>
 
 
 [← Back to README](../README.md)
