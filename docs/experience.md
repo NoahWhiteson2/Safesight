@@ -12,8 +12,8 @@ Supporting pieces: onboarding, scan gallery (star / auto-purge), haptic feedback
 
 # App Screens Here are 11 real App screens taken directly from the app. 
 
-<p align="center"> <img src="docs/assets/1.jpg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/2.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/1.png" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/2.png" alt="Safesight" width="100%" /> </p>
 <p align="center"> <img src="docs/assets/3.jpg" alt="Safesight" width="100%" /> </p>
 <p align="center"> <img src="docs/assets/4.jpg" alt="Safesight" width="100%" /> </p>
 <p align="center"> <img src="docs/assets/5.jpg" alt="Safesight" width="100%" /> </p>
@@ -22,7 +22,7 @@ Supporting pieces: onboarding, scan gallery (star / auto-purge), haptic feedback
 <p align="center"> <img src="docs/assets/8.jpg" alt="Safesight" width="100%" /> </p>
 <p align="center"> <img src="docs/assets/9.jpg" alt="Safesight" width="100%" /> </p>
 <p align="center"> <img src="docs/assets/10.jpg" alt="Safesight" width="100%" /> </p>
-<p align="center"> <img src="docs/assets/11.jpg" alt="Safesight" width="100%" /> </p>
+<p align="center"> <img src="docs/assets/11.png" alt="Safesight" width="100%" /> </p>
 
 
 [← Back to README](../README.md)
